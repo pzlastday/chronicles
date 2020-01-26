@@ -4,6 +4,7 @@
 
 ## Первый сезон. (9 сентября 2014 - 24 октября 2015)
 _Server 1 [PVP] [no mods]_
+
 _Server 2 [PVE] [no mods]_
 
 
@@ -154,6 +155,7 @@ _Server 1 [PVP] [Hydrocraft] [Bedford Falls]_
 выбираются разработчиками для вставки их в свои еженедельные отчеты.
 
 https://projectzomboid.com/blog/2016/01/co-op-n-carbs/
+
 https://projectzomboid.com/blog/2016/02/food-for-thought/
 
 
