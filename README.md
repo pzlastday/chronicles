@@ -145,10 +145,8 @@ _Server 1 [PVP] [Hydrocraft] [Bedford Falls]_
 деятельность игроков, а скриншоты, созданные в этот период времени, несколько раз
 выбираются разработчиками для вставки их в свои еженедельные отчеты.
 
-https://projectzomboid.com/blog/2016/01/co-op-n-carbs/
-
-https://projectzomboid.com/blog/2016/02/food-for-thought/
-
+https://projectzomboid.com/blog/2016/01/co-op-n-carbs/  
+https://projectzomboid.com/blog/2016/02/food-for-thought/  
 
 На сервер добавляется новая карта Bedford Falls, которая пришлась по вкусу игрокам
 и сезон перезапускается. Фракция Анклав, лидерство которой перешло к игроку **Mihail**
@@ -196,7 +194,7 @@ _Server 1 [PVP] [Hydrocraft] [ORGM] [New Denver] [Rebuild] [Bedford Falls] [Phoe
 концепции сервера, а **Finchez** пытается их реализовывать, **SHaD** активно проводит
 небольшие ивентовые убийства зомби.
 
-![2016-12-00_00-00-00.png](/images/screenshots/2016-12-00_00-00-00.png)
+![2016-12-19_00-00-00.png](/images/screenshots/2016-12-19_00-00-00.png)
 
 Время от времени **Daggerus** и **Finchez** объявляют о подготовке крупных ивентов с
 уникальными картами, но время их проведения постоянно откладывается. В рамках
