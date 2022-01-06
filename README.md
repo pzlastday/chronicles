@@ -169,8 +169,8 @@ _Server 1 [PVP] [PVE] [modded vanilla experience]_
 ## Десятый сезон
 _20 декабря 2021 - идет до сих пор_
 
-_Server 1 [PVP] [modded vanilla experience]_
-_Server 3 [PVE] [modded vanilla experience]_
+_Server 1 [PVP] [modded vanilla experience]_  
+_Server 3 [PVE] [modded vanilla experience]_  
 
 Десятый сезон идет сейчас и будет описан после его завершения.
 
